@@ -11,7 +11,10 @@ While you'll most commonly produce actions out in response to some action you re
 
 Root Epic :  Similar to redux requiring a single root Reducer, redux-observable requires a single root Epic. we can use combineEpics() to accomplish this.
 
+
+```java
 export const rootEpic = combineEpics(
   pingEpic,
   fetchUserEpic
 );
+```
