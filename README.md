@@ -1,5 +1,4 @@
-<img title="logo" src="images/logo-small.gif" width="16.5%">
-<img title="redux-observable" src="images/logo-text-small.png" width="72%">
+<img title="logo" src="images/logo-small.gif" width="16.5%"> <img title="redux-observable" src="images/logo-text-small.png" width="72%">
 
 # Intorduction to redux-observable
 
