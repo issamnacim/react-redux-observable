@@ -36,4 +36,4 @@ export const rootEpic = combineEpics(
   fetchUserEpic
 );
 ```
-<img title="logo" src="images/concept.gif" width="70%">
+<img title="logo" src="images/concept.png" width="70%">
