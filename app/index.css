@@ -1,0 +1,12 @@
+.tableCell{
+    color: #9ca4d8 !important;
+    font-size: 2rem !important;
+}
+.tableCell-header{
+    color: #5d6abf !important;
+    font-size: 2rem !important;
+}
+.app-global{
+    width: 80%;
+    margin: auto;
+}
