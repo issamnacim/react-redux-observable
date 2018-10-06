@@ -36,4 +36,7 @@ export const rootEpic = combineEpics(
   fetchUserEpic
 );
 ```
+# Here’s one way to visualize the interaction betwen redux && observable
 <img title="logo" src="images/concept.png" width="70%">
+
+start coding and enjoy it!!  <img title="logo" src="images/enjoy.png" width="70%">
