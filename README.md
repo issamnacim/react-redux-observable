@@ -40,6 +40,6 @@ export const rootEpic = combineEpics(
 <img title="logo" src="images/concept.png" width="70%">
 
 # DataBase Json Server
-install json server and put db.json racine folder and start it...
+install json server and put db.json in the racine folder and start it...
 
 start coding and enjoy your time   <img title="logo" src="images/enjoy.png" width="5%">
