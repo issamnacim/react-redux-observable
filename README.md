@@ -38,5 +38,7 @@ export const rootEpic = combineEpics(
 ```
 # Here’s one way to visualize the interaction betwen redux && observable
 <img title="logo" src="images/concept.png" width="70%">
+# DataBase Json Server
+install json server and put db.json racine folder and start it...
 
-start coding and enjoy it !!  <img title="logo" src="images/enjoy.png" width="5%">
+start coding and enjoy your time   <img title="logo" src="images/enjoy.png" width="5%">
